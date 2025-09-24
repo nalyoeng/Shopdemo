@@ -1,13 +1,13 @@
 import React from "react";
-import Mainpage from "./Mainpage";
-import Products from "./API/Products";
-import Skincare from "./API/Skincare";
-import Books from "./API/Books";
+import Skincare from "../../pages/api/Skincare";
+import Books from "../../pages/api/Books";
+import Products from "../../pages/api/Products";
+import Mainpage from "./Mainpage"
 
 const Homepage = ({ setCartItems }) => {
   return (
     <div>
-      <Mainpage />
+      <Mainpage/>
       <Products setCartItems={setCartItems} />
       <Skincare setCartItems={setCartItems} />
       <Books setCartItems={setCartItems} />

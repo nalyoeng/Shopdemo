@@ -2,9 +2,9 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "../Header";
 import Homepage from "../Homepage";
 import Footer from "../Footer";
-import Skincarepage from "../Skincarepage";
-import Devicespage from "../Devicespage";
-import Bookspage from "../Bookspage";
+import Skincarepage from "../../../pages/api/Skincarepage";
+import Devicespage from "../../../pages/api/Devicespage";
+import Bookspage from "../../../pages/api/Bookspage";
 
 const Mainrouter = ({ cartItems, setCartItems, setIsCartOpen }) => {
   return (
