@@ -1,0 +1,306 @@
+{
+    "Product":[
+        {
+            "name":"IPhone 17",
+            "price":"799",
+            "img":"./img/iphone17.jpg",
+            "description":"New color released"
+        },
+        {
+            "name":"IPhone 17 Air",
+            "price":"999",
+            "img":"./img/iphone17air.png",
+            "description":"The Slimmest IPhone in the world"
+        },
+        {
+            "name":"IPhone 17 Pro",
+            "price":"1099",
+            "img":"./img/17pro1.png",
+            "description":"New design with the comic orange"
+        },
+        {
+            "name":"IPhone 17 Pro Max",
+            "price":"1399",
+            "img":"./img/iphone17pro.png",
+            "description":"No one beats the shining siliver IPhone"
+        }
+    ],
+    "skincare":[
+        {
+            "name":"[celimax] THE VITA-A Retinal Shot Tightening Booster 15ml",
+            "price":"20",
+            "img":"/img/skincare1.jpg",
+            "description":"the more tingles, the more noticeable skin change"
+        },
+        {
+            "name":"[celimax] *renewal* Noni Energy Ampoule 30ml",
+            "price":"26",
+            "img":"/img/skincare2.jpg",
+            "description":"A fresh concentrated ampoule that conveys the nutrition and energy of Noni deep into skin."
+        },
+        {
+            "name":"[celimax] Pore+Dark Spot Brightening Serum 30ml",
+            "price":"27",
+            "img":"/img/skincare3.jpg",
+            "description":"All care soultion for pigmentation, freckles, dark spot"
+        },
+        {
+            "name":"[celimax] Oil Control Capsule Essence 30ml",
+            "price":"23",
+            "img":"/img/skincare4.jpg",
+            "description":"Helps reduce oil content with sebum adsorption ingredients"
+        }
+    ],
+    "books":[
+        {
+            "name":"My Friends: A Novel",
+            "price":"20.99",
+            "img":"/img/book1.jpg",
+            "description":"The #1 New York Times bestselling author of Anxious People returns with an unforgettably."
+        },
+        {
+            "name":"Anxious People:A Novel",
+            "price":"20.99",
+            "img":"/img/book2.jpg",
+            "description":"An instant #1 New York Times bestseller. A Novel"
+        },
+        {
+            "name":"A Man Called Ove: A Novel",
+            "price":"13.99",
+            "img":"/img/book3.jpg",
+            "description":"#1 New York Times bestseller—more than 3 million copies sold!"
+        },
+        {
+            "name":"Call of the Camino: A Novel",
+            "price":"16.99",
+            "img":"/img/book4.jpg",
+            "description":"From the bestselling author of In an Instant comes a deeply moving novel."
+        }
+    ],
+    "skincarepage":[
+        {
+            "name":"[celimax] THE VITA-A Retinal Shot Tightening Booster 15ml",
+            "price":"20",
+            "img":"/img/skincare1.jpg",
+            "description":"the more tingles, the more noticeable skin change"
+        },
+        {
+            "name":"[celimax] *renewal* Noni Energy Ampoule 30ml",
+            "price":"26",
+            "img":"/img/skincare2.jpg",
+            "description":"A fresh concentrated ampoule that conveys the nutrition and energy of Noni deep into skin."
+        },
+        {
+            "name":"[celimax] Pore+Dark Spot Brightening Serum 30ml",
+            "price":"27",
+            "img":"/img/skincare3.jpg",
+            "description":"All care soultion for pigmentation, freckles, dark spot"
+        },
+        {
+            "name":"[celimax] Oil Control Capsule Essence 30ml",
+            "price":"23",
+            "img":"/img/skincare4.jpg",
+            "description":"Helps reduce oil content with sebum adsorption ingredients"
+        },
+        {
+            "name":"[Purito Seoul] Wonder Releaf Centella Daily Sun Lotion 60ml",
+            "price":"21.50",
+            "img":"/img/skincare5.png",
+            "description":"A moisturizer-like sunscreen offers SPF50+ PA++++ sun protection with a non-sticky"
+        },
+        {
+            "name":"[House of HUR] Purifying Cleansing Balm 50ml",
+            "price":"22",
+            "img":"/img/skincare6.jpg",
+            "description":"Deep Cleansing: An all-in-one cleansing product that combines water, oil, and foam"
+        },
+        {
+            "name":"[Purito Seoul] Daily Soft Touch Sunscreen 60ml",
+            "price":"21.50",
+            "img":"./img/skincare7.png",
+            "description":"The PURITO Daily Soft Touch Sunscreen is a high-protection, lightweight sun solution"
+        },
+        {
+            "name":"[Purito Seoul] Sun Day Adventure Sunscreen 50ml",
+            "price":"21.50",
+            "img":"./img/skincare8.jpg",
+            "description":"A daily SPF 50 Korean sunscreen with an ultra-smooth, gliding texture that absorbs instantly."
+        },
+        {
+            "name":"[Purito Seoul] Mighty Bamboo Panthenol Serum 30ml",
+            "price":"22.00",
+            "img":"./img/skincare9.png",
+            "description":"It soothes irritation and enhances skin resilience against daily environmental stressors, leaving it soft and nourished."
+        },
+        {
+            "name":"TOCOBO] Bio Watery Sun Cream SPF50+ PA++++",
+            "price":"20.00",
+            "img":"./img/skincare10.png",
+            "description":"The vegan, oil-based chemical sunscreen nourishes the skin like a serum and protects against UV-rays"
+        },
+        {
+            "name":"[Numbuzin] No.9 NAD Bio Lifting Essence 50ml",
+            "price":"33.00",
+            "img":"./img/skincare11.jpg",
+            "description":"Improve skin wrinkles and sagging skin with this NAD+ Essence. Good for anti-aging and the glowing face"
+        },
+        {
+            "name":"[Numbuzin] No.1 Pantothenic B5 Active Soothing Serum 50ml",
+            "price":"28.00",
+            "img":"./img/skincare12.jpg",
+            "description":"This soothing serum with multiple functions helps hydrate and soothe your skin, leaving it seamless and moist."
+        }
+    ],
+    "devices":[
+        {
+            "name":"IPhone 17",
+            "price":"799+",
+            "img":"/img/iphone17.jpg",
+            "description":"New color released"
+        },
+        {
+            "name":"IPhone 17 Air",
+            "price":"999+",
+            "img":"/img/iphone17air.png",
+            "description":"The Slimmest IPhone in the world"
+        },
+        {
+            "name":"IPhone 17 Pro",
+            "price":"1099+",
+            "img":"/img/17pro1.png",
+            "description":"New design with the comic orange"
+        },
+        {
+            "name":"IPhone 17 Pro Max",
+            "price":"1399+",
+            "img":"/img/iphone17pro.png",
+            "description":"No one beats the shining siliver IPhone"
+        },
+        {
+            "name":"AirPod Pro 3",
+            "price":"249",
+            "img":"/img/airpodpro3.png",
+            "description":"New featured is waiting for you"
+        },
+        {
+            "id":1,
+            "name":"Apple Watch Series 10",
+            "price":"299",
+            "img":"/img/watch1.png",
+            "description":"Combining Apple Watch and iPhone opens up a world of features."
+        },
+        {
+            "id":2,
+            "name":"Apple Watch Series 11",
+            "price":"399",
+            "img":"/img/watch2.png",
+            "description":"The ultimate way to watch your health."
+        },
+        {
+            "id":3,
+            "name":"Apple Watch SE 3",
+            "price":"249",
+            "img":"/img/watch3.png",
+            "description":"Essential health features at a great value."
+        },
+        {
+            "id":4,
+            "name":"Apple Watch Ultra 3",
+            "price":"799",
+            "img":"/img/watch4.png",
+            "description":"The ultimate sports and adventure watch."
+        },
+        {
+            "name":"IPad 10th gen",
+            "price":"349",
+            "img":"/img/ipad10th.jpg",
+            "description":"Lovable Drawable Magical"
+        },
+        {
+            "name":"IPad Air",
+            "price":"599",
+            "img":"/img/ipadair.jpg",
+            "description":"high-resolution Liquid Retina display that brings everything you love to do to life"
+        },
+        {
+            "name":"IPad Pro",
+            "price":"899",
+            "img":"/img/ipadpro.jpg",
+            "description":"The all-new iPad Pro packs astonishing power into an unbelievably thin, light, and portable design."
+        }
+    ],
+    "bookspage":[
+        {
+            "name":"My Friends: A Novel",
+            "price":"20.99",
+            "img":"/img/book1.jpg",
+            "description":"The #1 New York Times bestselling author of Anxious People returns with funny."
+        },
+        {
+            "name":"Anxious People:A Novel",
+            "price":"20.99",
+            "img":"/img/book2.jpg",
+            "description":"An instant #1 New York Times bestseller and more than."
+        },
+        {
+            "name":"A Man Called Ove: A Novel",
+            "price":"13.99",
+            "img":"/img/book3.jpg",
+            "description":"#1 New York Times bestseller—more than 3 million copies sold!"
+        },
+        {
+            "name":"Call of the Camino: A Novel",
+            "price":"16.99",
+            "img":"/img/book4.jpg",
+            "description":"From the bestselling author of In an Instant comes a deeply moving novel."
+        },
+        {
+            "name":"The Housemaid",
+            "price":"25.77",
+            "img":"/img/book7.jpg",
+            "description":" An absolutely addictive psychological thriller with a jaw-dropping twist"
+        },
+        {
+            "name":"The Book of Guilt",
+            "price":"20.99",
+            "img":"/img/book5.jpg",
+            "description":" An absolutely addictive psychological thriller with a jaw-dropping twist"
+        },
+        {
+            "name":"The Pumpkin Spice Cake",
+            "price":"19.99",
+            "img":"/img/book6.jpg",
+            "description":" An absolutely addictive psychological thriller with a jaw-dropping twist"
+        },
+        {
+            "name":"Onyx Storm (The Empyrean Book 3)",
+            "price":"14.95",
+            "img":"/img/book8.jpg",
+            "description":"Discover the instant #1 New York Times bestseller! TV series now in development at..."
+        },
+        {
+            "name":"Iron Flame (The Empyrean Book 2)",
+            "price":"8.97",
+            "img":"/img/book9.jpg",
+            "description":"Discover the instant #1 New York Times bestseller! TV series now in development at..."
+        },
+        {
+            "name":"Verity",
+            "price":"13.54",
+            "img":"/img/book10.jpg",
+            "description":"#1 New York Times Bestseller · USA Today Bestseller · Globe and Mail Bestseller"
+        },
+        {
+            "name":"A Court of Thorns and Roses",
+            "price":"17.59",
+            "img":"/img/book11.jpg",
+            "description":"The sexy, action-packed first book in the #1 New York Times bestselling Court of Thorns..."
+        },
+        {
+            "name":"The Defender (Deluxe Edition) (Gods of the Game, 2)",
+            "price":"36.99",
+            "img":"/img/book12.jpg",
+            "description":"Book two in the Gods of the Game series by #1 New York Times bestselling author Ana..."
+        }
+    ]
+}
